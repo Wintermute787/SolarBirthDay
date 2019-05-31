@@ -9,11 +9,19 @@ describe('SpaceDate', function(){
       });
       expect(userBirthDate.birthDate).toEqual('1984 04 20');
    });
-   it('gets age', function(){
-      let userBirthDay = new SpaceDate({
+   it('gets full year', function(){
+      let userBirthDate = new SpaceDate({
+
       });
-      userBirthDay.getCurrentAge('1984 04 20');
-      expect(userBirthDay.age).toEqual(35);
+      userBirthDate.getFullYear('1984 04 20');
+      expect(userBirthDate.fullYear).toEqual(1984);
+
    })
+   // it('gets age', function(){
+   //    let userBirthDay = new SpaceDate({
+   //    });
+   //    userBirthDay.getCurrentAge('1984 04 20');
+   //    expect(userBirthDay.age).toEqual(35);
+   // })
 
 });
