@@ -26,7 +26,24 @@ export class SpaceDate {
         let birthYear = new Date(date).getFullYear();
         let age = currentYear - birthYear;
         this.ageOnMercury = Math.floor(age * .24);
-
+    }
+    getAgeOnVenus(date){
+        let currentYear = new Date().getFullYear();
+        let birthYear = new Date(date).getFullYear();
+        let age = currentYear - birthYear;
+        this.ageOnVenus = Math.floor(age * .62);
+    }
+    getAgeOnMars(date){
+        let currentYear = new Date().getFullYear();
+        let birthYear = new Date(date).getFullYear();
+        let age = currentYear - birthYear;
+        this.ageOnMars = Math.floor(age * 1.88);
+    }
+    getAgeOnJupiter(date){
+        let currentYear = new Date().getFullYear();
+        let birthYear = new Date(date).getFullYear();
+        let age = currentYear - birthYear;
+        this.ageOnJupiter = Math.floor(age * 11.86);
     }
 }
 
