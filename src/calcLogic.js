@@ -10,8 +10,8 @@ export class SpaceDate {
         Object.assign(this, birthDate);
     }
 
-    getCurrentAge(date){
-        let currentYear = new Date().getFullYear();
+    getCurrentAge(date, currentYear){
+
         let birthYear = new Date(date).getFullYear();
         this.age = currentYear - birthYear;
 
@@ -45,5 +45,6 @@ export class SpaceDate {
         let age = currentYear - birthYear;
         this.ageOnJupiter = Math.floor(age * 11.86);
     }
+
 }
 

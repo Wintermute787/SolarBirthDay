@@ -20,7 +20,7 @@ describe('SpaceDate', function(){
    it('gets age', function(){
       let userBirthDay = new SpaceDate({
       });
-      userBirthDay.getCurrentAge('1984 04 20');
+      userBirthDay.getCurrentAge('1984 04 20', 2019);
       expect(userBirthDay.age).toEqual(35);
    })
 
@@ -52,5 +52,12 @@ describe('SpaceDate', function(){
       userBirthDay.getAgeOnJupiter('1984 04 20');
       expect(userBirthDay.ageOnJupiter).toEqual(415)
    });
+   it('gets years till death', function () {
+      let userBirthDay = new SpaceDate({
+
+      });
+      userBirthDay.getYearsTillDeath();
+      expect(userBirthDay.deathDay).toEqual()
+   })
 
 });
