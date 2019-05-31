@@ -52,12 +52,33 @@ describe('SpaceDate', function(){
       userBirthDay.getAgeOnJupiter('1984 04 20');
       expect(userBirthDay.ageOnJupiter).toEqual(415)
    });
-   it('gets years till death', function () {
+   it('gets years till death on Mecurey', function () {
       let userBirthDay = new SpaceDate({
 
       });
-      userBirthDay.getYearsTillDeath();
-      expect(userBirthDay.deathDay).toEqual()
+      userBirthDay.getYearsTillDeath('1984 04 20',100,"Mecurey");
+      expect(userBirthDay.deathDay).toEqual(92);
+   })
+   it('gets years till death on Venus', function () {
+      let userBirthDay = new SpaceDate({
+
+      });
+      userBirthDay.getYearsTillDeath('1984 04 20',100,"Venus");
+      expect(userBirthDay.deathDay).toEqual(79);
+   })
+   it('gets years till death on Mars', function () {
+      let userBirthDay = new SpaceDate({
+
+      });
+      userBirthDay.getYearsTillDeath('1984 04 20',100,"Mars");
+      expect(userBirthDay.deathDay).toEqual(35);
+   })
+   it('gets years till death on Jupiter', function () {
+      let userBirthDay = new SpaceDate({
+
+      });
+      userBirthDay.getYearsTillDeath('1984 04 20',100,"Jupiter");
+      expect(userBirthDay.deathDay).toEqual(315);
    })
 
 });

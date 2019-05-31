@@ -7,6 +7,7 @@ export class SpaceDate {
         this.ageOnMars = 0;
         this.ageOnJupiter = 0;
         this.fullYear = 0;
+        this.deathDay = 0;
         Object.assign(this, birthDate);
     }
 
@@ -45,6 +46,42 @@ export class SpaceDate {
         let age = currentYear - birthYear;
         this.ageOnJupiter = Math.floor(age * 11.86);
     }
-
+    getYearsTillDeath(date, userYear, planet){
+        let currentYear = new Date().getFullYear();
+        let birthYear = new Date(date).getFullYear();
+        let age = currentYear - birthYear;
+        if(planet === 'Mecurey'){
+           let mecureyAge = Math.floor(age * .24);
+            if(mecureyAge < userYear){
+                this.deathDay = userYear - mecureyAge;
+            }else if(mecureyAge > userYear){
+                this.deathDay = mecureyAge - userYear;
+            }
+        }
+        if(planet === 'Venus'){
+            let venusAge = Math.floor(age * .62);
+            if(venusAge < userYear){
+                this.deathDay = userYear - venusAge;
+            }else if(venusAge > userYear){
+                this.deathDay = venusAge - userYear;
+            }
+        }
+        if(planet === 'Mars'){
+            let marsAge = Math.floor(age * 1.88);
+            if(marsAge < userYear){
+                this.deathDay = userYear - marsAge;
+            }else if(marsAge > userYear){
+                this.deathDay = marsAge - userYear;
+            }
+        }
+        if(planet === 'Jupiter'){
+            let jupiterAge = Math.floor(age * 11.86);
+            if(jupiterAge < userYear){
+                this.deathDay = userYear - jupiterAge;
+            }else if(jupiterAge > userYear){
+                this.deathDay = jupiterAge - userYear;
+            }
+        }
+    }
 }
 
