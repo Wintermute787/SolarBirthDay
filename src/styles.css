@@ -15,4 +15,40 @@ body {
     color: #B6DBF2;
     text-transform: uppercase;
     letter-spacing: 34px;
+    font-size: 95px;
+}
+hr {
+    background-color: #B6DBF2;
+}
+.header-title--text {
+    color: #B6DBF2;
+    text-transform: uppercase;
+    letter-spacing: 15px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.body-cards {
+    display: grid;
+    grid-template-columns: 3fr 3fr 3fr 3fr;
+    grid-template-rows: auto;
+    grid-gap: 15px;
+    height: 25em;
+}
+
+#body-cards__mercury {
+    position: relative;
+    background-color: #008800;
+}
+ #body-cards__venus {
+    position: relative;
+    background-color: #008800;
+}
+#body-cards__mars {
+    position: relative;
+    background-color: #008800;
+}
+#body-cards__jupiter {
+    position: relative;
+    background-color: #008800;
 }
