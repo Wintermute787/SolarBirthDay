@@ -31,5 +31,26 @@ describe('SpaceDate', function(){
       userBirthDay.getAgeOnMercury('1984 04 20');
       expect(userBirthDay.ageOnMercury).toEqual(8)
    });
+   it('gets age on Venus', function () {
+      let userBirthDay = new SpaceDate({
+
+      });
+      userBirthDay.getAgeOnVenus('1984 04 20');
+      expect(userBirthDay.ageOnMercury).toEqual(21)
+   });
+   it('gets age on Mars', function () {
+      let userBirthDay = new SpaceDate({
+
+      });
+      userBirthDay.getAgeOnMars('1984 04 20');
+      expect(userBirthDay.ageOnMercury).toEqual(65)
+   });
+   it('gets age on Jupiter', function () {
+      let userBirthDay = new SpaceDate({
+
+      });
+      userBirthDay.getAgeOnJuperty('1984 04 20');
+      expect(userBirthDay.ageOnMercury).toEqual(415)
+   });
 
 });

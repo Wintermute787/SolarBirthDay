@@ -3,6 +3,9 @@ export class SpaceDate {
         this.birthDate = '1984 04 20';
         this.age = 0;
         this.ageOnMercury = 0;
+        this.ageOnVenus =0;
+        this.ageOnMars = 0;
+        this.ageOnJupiter = 0;
         this.fullYear = 0;
         Object.assign(this, birthDate);
     }
