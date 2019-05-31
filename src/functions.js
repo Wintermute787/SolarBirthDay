@@ -1,6 +1,9 @@
 export function setBrowserVariable(name, value)
 {
-    localStorage.setItem(name, value);
+    if(window.localStorage){
+        localStorage.setItem(name, value);
+    }
+
 }
 
 export function getBrowserVariable(name)

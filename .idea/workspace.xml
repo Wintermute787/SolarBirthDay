@@ -11,143 +11,9 @@
       <change afterPath="$PROJECT_DIR$/../weekdayCalculator/.idea/weekdayCalculator.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../formPractice" beforeDir="false" afterPath="$PROJECT_DIR$/../formPractice" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../romanNumerals" beforeDir="false" afterPath="$PROJECT_DIR$/../romanNumerals" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/babel-core/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/babel-core/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/lib/api/browser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/lib/api/node.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/lib/helpers/get-possible-plugin-names.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/lib/helpers/get-possible-preset-names.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/lib/helpers/merge.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/lib/helpers/normalize-ast.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/lib/helpers/resolve-from-possible-names.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/lib/helpers/resolve-plugin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/lib/helpers/resolve-preset.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/lib/helpers/resolve.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/lib/store.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/lib/tools/build-external-helpers.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/lib/transformation/file/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/lib/transformation/file/logger.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/lib/transformation/file/metadata.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/lib/transformation/file/options/build-config-chain.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/lib/transformation/file/options/config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/lib/transformation/file/options/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/lib/transformation/file/options/option-manager.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/lib/transformation/file/options/parsers.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/lib/transformation/file/options/removed.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/lib/transformation/internal-plugins/block-hoist.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/lib/transformation/internal-plugins/shadow-functions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/lib/transformation/pipeline.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/lib/transformation/plugin-pass.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/lib/transformation/plugin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/lib/util.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/node_modules/.bin/json5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/node_modules/.bin/json5.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/node_modules/debug/.coveralls.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/node_modules/debug/.eslintrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/node_modules/debug/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/node_modules/debug/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/node_modules/debug/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/node_modules/debug/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/node_modules/debug/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/node_modules/debug/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/node_modules/debug/component.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/node_modules/debug/karma.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/node_modules/debug/node.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/node_modules/debug/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/node_modules/debug/src/browser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/node_modules/debug/src/debug.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/node_modules/debug/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/node_modules/debug/src/inspector-log.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/node_modules/debug/src/node.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/node_modules/json5/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/node_modules/json5/LICENSE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/node_modules/json5/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/node_modules/json5/lib/cli.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/node_modules/json5/lib/json5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/node_modules/json5/lib/require.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/node_modules/json5/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/node_modules/ms/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/node_modules/ms/license.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/node_modules/ms/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/node_modules/ms/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/node_modules/slash/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/node_modules/slash/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/node_modules/slash/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/babel-core/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-core/register.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-generator/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-generator/lib/buffer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-generator/lib/generators/base.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-generator/lib/generators/classes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-generator/lib/generators/expressions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-generator/lib/generators/flow.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-generator/lib/generators/jsx.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-generator/lib/generators/methods.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-generator/lib/generators/modules.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-generator/lib/generators/statements.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-generator/lib/generators/template-literals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-generator/lib/generators/types.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-generator/lib/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-generator/lib/node/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-generator/lib/node/parentheses.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-generator/lib/node/whitespace.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-generator/lib/printer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-generator/lib/source-map.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-generator/lib/whitespace.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-generator/node_modules/.bin/jsesc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-generator/node_modules/.bin/jsesc.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-generator/node_modules/jsesc/LICENSE-MIT.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-generator/node_modules/jsesc/bin/jsesc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-generator/node_modules/jsesc/jsesc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-generator/node_modules/jsesc/man/jsesc.1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-generator/node_modules/jsesc/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-generator/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-helpers/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-helpers/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-helpers/lib/helpers.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-helpers/lib/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-helpers/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-register/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-register/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-register/lib/browser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-register/lib/cache.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-register/lib/node.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-register/node_modules/source-map-support/LICENSE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-register/node_modules/source-map-support/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-register/node_modules/source-map-support/browser-source-map-support.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-register/node_modules/source-map-support/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-register/node_modules/source-map-support/register.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-register/node_modules/source-map-support/source-map-support.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-register/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-register/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/detect-indent/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/detect-indent/license" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/detect-indent/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/detect-indent/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/home-or-tmp/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/home-or-tmp/license" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/home-or-tmp/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/home-or-tmp/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-finite/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-finite/license" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-finite/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-finite/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/os-homedir/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/os-homedir/license" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/os-homedir/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/os-homedir/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/repeating/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/repeating/license" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/repeating/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/repeating/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/calcLogic.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/calcLogic.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/functions.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/calcLogic.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/calcLogic.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/main.test.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../trackSelector" beforeDir="false" afterPath="$PROJECT_DIR$/../trackSelector" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../travelSite" beforeDir="false" afterPath="$PROJECT_DIR$/../travelSite" afterDir="false" />
     </list>
@@ -165,17 +31,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/functions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            <state relative-caret-position="264">
+              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/calcLogic.test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+            <state relative-caret-position="360">
+              <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
               <folding>
                 <element signature="e#0#68#0" expanded="true" />
               </folding>
@@ -195,13 +61,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/calcLogic.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+            <state relative-caret-position="216">
+              <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
@@ -223,12 +89,12 @@
         <option value="$PROJECT_DIR$/babel.config.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/main.js" />
-        <option value="$PROJECT_DIR$/src/functions.js" />
         <option value="$PROJECT_DIR$/test/main.test.js" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/index.html" />
+        <option value="$PROJECT_DIR$/src/functions.js" />
         <option value="$PROJECT_DIR$/src/calcLogic.js" />
         <option value="$PROJECT_DIR$/test/calcLogic.test.js" />
-        <option value="$PROJECT_DIR$/src/index.html" />
       </list>
     </option>
   </component>
@@ -308,12 +174,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559315800848</updated>
-      <workItem from="1559315802399" duration="6382000" />
+      <workItem from="1559315802399" duration="7958000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6382000" />
+    <option name="totallyTimeSpent" value="7958000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="397" y="45" width="1400" height="1000" extended-state="0" />
@@ -368,13 +234,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/functions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2088" />
@@ -394,27 +253,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/calcLogic.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/main.test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="1" selection-end-column="74" />
-          <folding>
-            <element signature="e#0#68#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/calcLogic.test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
           <folding>
             <element signature="e#0#68#0" expanded="true" />
           </folding>
@@ -432,6 +274,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/calcLogic.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/calcLogic.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#68#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
