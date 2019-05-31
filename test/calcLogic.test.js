@@ -13,15 +13,15 @@ describe('SpaceDate', function(){
       let userBirthDate = new SpaceDate({
 
       });
-      userBirthDate.getFullYear('1984 04 20');
+      userBirthDate.getYear('1984 04 20');
       expect(userBirthDate.fullYear).toEqual(1984);
 
    })
-   // it('gets age', function(){
-   //    let userBirthDay = new SpaceDate({
-   //    });
-   //    userBirthDay.getCurrentAge('1984 04 20');
-   //    expect(userBirthDay.age).toEqual(35);
-   // })
+   it('gets age', function(){
+      let userBirthDay = new SpaceDate({
+      });
+      userBirthDay.getCurrentAge('1984 04 20');
+      expect(userBirthDay.age).toEqual(35);
+   })
 
 });

@@ -7,8 +7,15 @@ export class SpaceDate {
     }
 
     getCurrentAge(date){
-        let parsedDate = parseInt(date);
-        this.age = parsedDate - this.birthDate;
+        let currentYear = new Date().getFullYear();
+        let birthYear = new Date(date).getFullYear();
+        this.age = currentYear - birthYear;
+
+    }
+    getYear(date){
+        let inputDate = new Date(date);
+        let parsedYear = inputDate.getFullYear();
+        this.fullYear = parsedYear;
     }
 }
 
