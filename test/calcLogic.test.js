@@ -28,7 +28,7 @@ describe('SpaceDate', function(){
       let userBirthDay = new SpaceDate({
 
       });
-      userBirthDay.getAgeOnMercury('1984 04 20');
+      userBirthDay.getAgeOnMercury('1984-04-20');
       expect(userBirthDay.ageOnMercury).toEqual(8)
    });
    it('gets age on Venus', function () {

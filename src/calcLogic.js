@@ -1,6 +1,6 @@
 export class SpaceDate {
     constructor(birthDate) {
-        this.birthDate = '1984 04 20';
+        this.birthDate = 0;
         this.age = 0;
         this.ageOnMercury = 0;
         this.ageOnVenus =0;
